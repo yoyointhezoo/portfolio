@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="53px" height="50px" viewBox="0 0 53 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>logoo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logoo" sketch:type="MSArtboardGroup">
+            <g id="header" sketch:type="MSLayerGroup">
+                <g id="y2">
+                    <rect id="Rectangle-28" sketch:type="MSShapeGroup" x="0" y="0" width="53" height="49.6540404"></rect>
+                    <ellipse id="Oval-32" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="26.4330808" cy="28.5075758" rx="18.0012626" ry="17.8005051"></ellipse>
+                    <ellipse id="Oval-32-Copy" fill="#4A4A4A" sketch:type="MSShapeGroup" cx="24.8939394" cy="26.0315657" rx="12.8484848" ry="12.6477273"></ellipse>
+                    <text id="y" sketch:type="MSTextLayer" font-family="Kannada MN" font-size="22.2171717" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="20.8787879" y="32.0454545">y</tspan>
+                    </text>
+                    <path d="M38.7714518,7.72864386 C38.969012,8.32975882 39.2724724,8.87217876 39.3641324,9.53198873 C39.8038571,12.6973251 37.8207998,12.1923403 37.5122004,13.9383256 C36.800363,17.9657391 37.8344061,17.0477481 36.1724373,17.8360559" id="Path-1" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
