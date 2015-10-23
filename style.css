@@ -4,17 +4,29 @@ html, body{
 }
 
 body {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  color:#333333;
+  font-family: "Verala Round", Helvetica, Arial, sans-serif;
+  color:#ffffff;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Varela Round"; Helvetica, Arial, sans-serif;
+  font-family: "Lato"; Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size:36px;
+  font-weight: normal;
+  margin-bottom: 5px;
 }
 
 
 h2 {
-  font-size:28px;
+  font-size:20px;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+
+h3 {
+  font-size:18px;
   font-weight: normal;
   margin-bottom: 5px;
 }
@@ -83,8 +95,6 @@ p {
 /* =========== HEADER ========== */
 header {
   color:#FFFFFF;
-    background: #3d4750;
-    background-image: linear-gradient(206deg, #3d4750 0%, #3d4750 94%);
 }
 header nav {
   padding:1em 0;
@@ -104,7 +114,6 @@ header nav ul {
    padding:10px 15px;
    border:2px solid #FFFFFF;
    border-radius: 4px;
-   background:rgba(255, 255, 255, 0.3); 
  }
  header nav ul > li.btn-outline:hover {
    background:#FFFFFF;
